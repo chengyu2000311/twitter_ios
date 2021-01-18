@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### There are some connection problems to Twitter's API while I was in China, and my VPN doesn't work so well recently. It will take minutes to refresh, and pull down. Therefore it is only a partial walkthrough video, but all user stories are implemented.
+<img src='https://github.com/chengyu2000311/twitter_ios/blob/main/walkThrough3-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
